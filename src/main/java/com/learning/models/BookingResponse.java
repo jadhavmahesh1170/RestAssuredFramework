@@ -1,6 +1,4 @@
-package com.learning.utils;
-
-import com.learning.models.Booking;
+package com.learning.models;
 
 public class BookingResponse {
 	
